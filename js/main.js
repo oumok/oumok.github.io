@@ -75,7 +75,7 @@ $(document).ready(function(){
   
 var unavailableDates = [
 {start: '2015-08-31', end: '2015-09-05'},
-    {start: '2015-09-11', end: '2015-09-15'},
+    {start: '2015-07-07', end: '2015-07-07'},
     {start: '2015-09-15', end: '2015-09-23'},
     {start: '2015-10-01', end: '2015-10-07'}
 ];
